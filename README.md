@@ -25,7 +25,7 @@ $ git clone https://github.com/Verdant31/Send-message.git
 
 ```
 # Access the application folder
-$ cd Monitoria-Dashboard
+$ cd Send-message
 
 # Open Android Studio (Or other IDE)
 $ Build and run the app
